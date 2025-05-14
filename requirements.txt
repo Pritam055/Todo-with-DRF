@@ -17,3 +17,4 @@ requests-toolbelt==0.9.1
 sqlparse==0.4.1
 urllib3==1.26.4
 psycopg2-binary==2.9.5 
+pytest==8.0.0
