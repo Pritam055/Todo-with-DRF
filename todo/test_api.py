@@ -7,4 +7,4 @@ def test_api():
     assert 1 == 1
 
 def test_model():
-    assert "ram" == "sam"
+    assert "ram" == "lam"
